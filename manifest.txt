@@ -1,0 +1,5 @@
+[Package]
+name=Paleozoic Genesis Pack
+author=sakamotoosan-lang
+version=1.0.0
+description=Custom card pack featuring Paleozoic Genesis
