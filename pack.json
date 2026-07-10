@@ -1,0 +1,17 @@
+{
+  "name": "Paleozoic Genesis Pack",
+  "author": "sakamotoosan-lang",
+  "version": "1.0.0",
+  "description": "Custom card pack featuring Paleozoic Genesis and related Paleozoic support cards.",
+  "cards": [
+    {
+      "id": 510000001,
+      "name": "Paleozoic Genesis",
+      "level": 2,
+      "attribute": "WATER",
+      "type": "Aqua/Effect",
+      "atk": 1200,
+      "def": 0
+    }
+  ]
+}
